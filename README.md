@@ -8,11 +8,11 @@ Sales Data:
      
 Key Insights:
 
-Year by Year car sales: The sheet seems to track car sales data across various years, with information on the number of sales per year.               
+1) Year by Year car sales: The sheet seems to track car sales data across various years, with information on the number of sales per year.               
 
-Brand vs Income: There is also financial data associated with specific car brands, reflecting the total sales amount for each brand.       
+2) Brand vs Income: There is also financial data associated with specific car brands, reflecting the total sales amount for each brand.       
 
-km dirven and selling price by each brand: The percentage of kilometeres driven by cars after buying the car from the each brand.            
+3) Km dirven and selling price by each brand: The percentage of kilometeres driven by cars after buying the car from the each brand.            
 
 Purpose:
 
